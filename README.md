@@ -2,7 +2,7 @@ Hello friends!!! 🧐
 
 I'm updating my profile, soon I'll make available more repositories referring to studies I've done. 🤝
 
-<a href='' target='_blank'>Linkedin</a>
+- <a href='https://www.linkedin.com/in/jo%C3%A3o-gabriel-ferro-beani-49513a150/' target='_blank'>Linkedin</a>
 
 <!--
 **joaogg/joaogg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
