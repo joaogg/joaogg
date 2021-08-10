@@ -1,4 +1,4 @@
-<h2>João Gabriel</h2>
+<h1>João Gabriel</h1>
 
 Hello friends!!! 🧐
 
