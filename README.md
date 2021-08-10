@@ -1,3 +1,6 @@
+<h4>João Gabriel</h4>
+<hr>
+
 Hello friends!!! 🧐
 
 I'm updating my profile, soon I'll make available more repositories referring to studies I've done. 🤝
